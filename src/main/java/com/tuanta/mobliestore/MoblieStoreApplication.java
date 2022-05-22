@@ -1,4 +1,4 @@
-package com.tuata.mobliestore;
+package com.tuanta.mobliestore;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
