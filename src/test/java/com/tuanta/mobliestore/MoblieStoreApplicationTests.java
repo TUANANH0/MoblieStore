@@ -1,4 +1,4 @@
-package com.tuata.mobliestore;
+package com.tuanta.mobliestore;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
